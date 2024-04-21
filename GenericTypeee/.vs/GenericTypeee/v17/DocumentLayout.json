@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\typee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\typee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|c:\\users\\hp\\source\\repos\\generictypeee\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BFB32A-124B-4649-B71C-D00D5D54F9B2}|GenericTypeee.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:48:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Grass.cs",
+              "RelativeToolTip": "Models\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:42:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\ZooCage.cs",
+              "RelativeDocumentMoniker": "Models\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\ZooCage.cs",
+              "RelativeToolTip": "Models\\ZooCage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:55:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:39:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Meat.cs",
+              "RelativeToolTip": "Models\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:42:15.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeE.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\TypeE.cs",
+              "RelativeDocumentMoniker": "Models\\TypeE.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\TypeE.cs",
+              "RelativeToolTip": "Models\\TypeE.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:53:34.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Models\\Food.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Food.cs",
+              "RelativeToolTip": "Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "Models\\Elephant.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Elephant.cs",
+              "RelativeToolTip": "Models\\Elephant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Wolf.cs",
+              "RelativeDocumentMoniker": "Models\\Wolf.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Wolf.cs",
+              "RelativeToolTip": "Models\\Wolf.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GenericTypeee\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:40:33.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

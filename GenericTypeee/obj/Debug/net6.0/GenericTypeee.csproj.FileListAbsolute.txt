@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.AssemblyInfo.cs
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GenericTypeee\bin\Debug\net6.0\GenericTypeee.exe
+C:\Users\hp\source\repos\GenericTypeee\bin\Debug\net6.0\GenericTypeee.deps.json
+C:\Users\hp\source\repos\GenericTypeee\bin\Debug\net6.0\GenericTypeee.runtimeconfig.json
+C:\Users\hp\source\repos\GenericTypeee\bin\Debug\net6.0\GenericTypeee.dll
+C:\Users\hp\source\repos\GenericTypeee\bin\Debug\net6.0\GenericTypeee.pdb
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.dll
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\refint\GenericTypeee.dll
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.pdb
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\GenericTypeee.genruntimeconfig.cache
+C:\Users\hp\source\repos\GenericTypeee\obj\Debug\net6.0\ref\GenericTypeee.dll
